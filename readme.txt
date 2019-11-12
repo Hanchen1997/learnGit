@@ -1,3 +1,3 @@
 hello world！
 hello everyone！
-add a GRL.
+git has a mutable index called stage.
